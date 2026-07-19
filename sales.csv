@@ -1,0 +1,6 @@
+user_id,transaction_date,region,product_category,sale_amount,city,age,subscription,email,username,price,store_id,status,raw_timestamp
+101,2025-01-01,West,Electronics,1200,Delhi,25,Premium,abc@gmail.com,john,1200,S1,Active,2025-01-01 10:30:00
+102,2025-01-02,West,Furniture,800,Mumbai,29,Premium,,sam,800,S2,,2025-01-02 12:00:00
+103,2025-01-03,East,Electronics,1500,Delhi,32,Basic,test@gmail.com,,1500,S1,Active,2025-01-03 15:20:00
+101,2025-01-01,West,Electronics,1200,Delhi,25,Premium,abc@gmail.com,john,1200,S1,Active,2025-01-01 10:30:00
+104,2025-01-04,West,Clothing,600,Noida,20,Premium,user@gmail.com,alice,,S3,Pending,2025-01-04 09:10:00
